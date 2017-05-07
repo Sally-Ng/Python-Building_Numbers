@@ -3,5 +3,5 @@ Wrote a program that keeps track of who works in what building. Each person will
 
 </br>
 <p align="left">
-  <img src="buildings.JPG" width="500"/>
+  <img src="buildings.JPG" width="600"/>
 </p>
